@@ -1,0 +1,32 @@
+{
+"name": "Node's Warriors Knight #332",
+"symbol": "NODE",
+"description": "777 Knights conquering for Node's Glory",
+"seller_fee_basis_points": 700,
+"image": "https://www.arweave.net/MvjjFwIaeHGFA30AOcc6Y31pHwd4DZsi_0-l55WLy6A?ext=png",
+"attributes": [
+{
+"trait_type": "Renewal Status",
+"value": "Expired"
+}
+],
+"collection": {
+"name": "Node's Warriors Knights",
+"family": "Node's Warriors"
+},
+"properties": {
+"files": [
+{
+"uri": "https://www.arweave.net/MvjjFwIaeHGFA30AOcc6Y31pHwd4DZsi_0-l55WLy6A?ext=png",
+"type": "image/png"
+}
+],
+"category": "image",
+"creators": [
+{
+"address": "3USV3WgaeGyMaPsFKrEwmoJ4bsubouvUdGeyvnKi5icy",
+"share": 100
+}
+]
+}
+}
